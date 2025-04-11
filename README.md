@@ -1,3 +1,8 @@
+<div class="navigation">
+  <a href="/Image compressor-">Home</a> | 
+  <a href="/Tools-index.html-2">Tool Version 1</a> | 
+  <a href="/index.html-2">Tool Version 2</a>
+</div>
 <!DOCTYPE html>
 <html lang="en">
 <head>
